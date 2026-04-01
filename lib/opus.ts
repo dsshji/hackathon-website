@@ -1,15 +1,9 @@
 const OPUS_BASE_URL = "https://operator.opus.com";
-const WORKFLOW_ID = "I9mMVOEQwjdOewLf";
-
-function getServiceKey() {
-  const key = process.env.OPUS_SERVICE_KEY;
-  if (!key) throw new Error("OPUS_SERVICE_KEY environment variable is not set. Please add it in the Vars section of the sidebar.");
-  return key;
-}
+const WORKFLOW_ID = "Hb5Gt53eOF9S4DRJ";
 
 function opusHeaders(): Record<string, string> {
   return {
-    "x-service-key": getServiceKey(),
+    "x-service-key": process.env.OPUS_SERVICE_KEY!,
     "Content-Type": "application/json",
   };
 }
