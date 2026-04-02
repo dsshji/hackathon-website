@@ -16,7 +16,7 @@
 <!-- Replace demo-thumbnail.png with a screenshot of your video, and demo.mp4 with your actual video file path in the repo -->
 [![Watch the Demo](assets/demo-thumbnail.png)](assets/demo.mp4)
 
-> **💡 Tip:** Click the thumbnail above to play the demo video. To set this up: add your MP4 as `assets/demo.mp4` in the repo, and drop a screenshot of the video as `assets/demo-thumbnail.png`.
+> **💡 Tip:** Click the thumbnail above to play the demo video.
 
 ---
 
