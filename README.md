@@ -99,16 +99,16 @@ Every submission generates three outputs:
 ## 🚀 Technical Architecture
 
 ```
-┌─────────────────────────────────────────────┐
-│              GuardianAuditAI                │
-├──────────────┬──────────────────────────────┤
-│   Frontend   │  Next.js + Tailwind CSS (v0) │
+┌──────────────────────────────────────────────┐
+│              GuardianAuditAI                 │
+├──────────────┬───────────────────────────────┤
+│   Frontend   │  Next.js + Tailwind CSS (v0)  │
 │   Backend    │  Opus AI Workflow Automation  │
-│   Knowledge  │  EU CSDDD + ILO Guidelines   │
+│   Knowledge  │  EU CSDDD + ILO Guidelines    │
 │              │  via Opus Work Knowledge Graph│
 │ Integration  │  Bi-directional API           │
 │              │  (x-service-key auth)         │
-└──────────────┴──────────────────────────────┘
+└──────────────┴───────────────────────────────┘
 ```
 
 ---
