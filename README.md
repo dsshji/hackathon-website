@@ -14,7 +14,7 @@
 ## 🎬 Demo
 
 <!-- Replace demo-thumbnail.png with a screenshot of your video, and demo.mp4 with your actual video file path in the repo -->
-[![Watch the Demo](assets/demo-thumbnail.png)](assets/demo.mp4)
+[![Watch the Demo](assets/demo-thumbnail.png)](https://youtu.be/1IieC25k2y0)
 
 > **💡 Tip:** Click the thumbnail above to play the demo video.
 
